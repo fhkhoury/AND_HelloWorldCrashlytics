@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "fka.and_helloworldcrashlytics"
+        applicationId "fka.and_testcrashlytics"
         minSdkVersion 16
         targetSdkVersion 23
         versionCode 1

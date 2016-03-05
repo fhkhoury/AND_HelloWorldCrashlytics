@@ -1,4 +1,4 @@
-package fka.and_helloworldcrashlytics;
+package fka.and-testcrashlytics;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
