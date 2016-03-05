@@ -22,12 +22,14 @@
         android:layout_height="wrap_content"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true"
+        android:onClick="displayToast"
         android:id="@+id/toastButton"
         android:text="Toast Me !" />
   
   <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:onClick="forceCrash"
         android:id="@+id/crashButton"
         android:text="BOOM !" />
 </RelativeLayout>
